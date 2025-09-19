@@ -1,0 +1,112 @@
+{
+  "accommodation_rr": {
+    "original_name": "Accommodation_R&R.pdf",
+    "file_type": "PDF Document",
+    "pages": 3,
+    "chunks": 7,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:42:41.603007",
+    "file_size": "N/A"
+  },
+  "posh": {
+    "original_name": "posh.pdf",
+    "file_type": "PDF Document",
+    "pages": 4,
+    "chunks": 10,
+    "source_type": "url",
+    "source_url": "https://drive.google.com/file/d/1khPh1lvaHkJmDyIKqJ389v79TMwhon9l/view?usp=sharing",
+    "created_at": "2025-05-29 09:44:34.540426",
+    "file_size": "N/A"
+  },
+  "leave_policy_2025": {
+    "original_name": "Leave Policy 2025.pdf",
+    "file_type": "PDF Document",
+    "pages": 6,
+    "chunks": 20,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:45:38.787044",
+    "file_size": "N/A"
+  },
+  "leave_policy_2025_1": {
+    "original_name": "Leave Policy 2025.pdf",
+    "file_type": "PDF Document",
+    "pages": 6,
+    "chunks": 20,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:47:21.367056",
+    "file_size": "N/A"
+  },
+  "performance_improvement_plan": {
+    "original_name": "Performance Improvement Plan.pdf",
+    "file_type": "PDF Document",
+    "pages": 4,
+    "chunks": 7,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:48:21.195445",
+    "file_size": "N/A"
+  },
+  "appraisal_policy": {
+    "original_name": "Appraisal_Policy.pdf",
+    "file_type": "PDF Document",
+    "pages": 2,
+    "chunks": 4,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:49:11.075245",
+    "file_size": "N/A"
+  },
+  "employees_benefits_plan174068328467c0b8149f1e0": {
+    "original_name": "Employees_Benefits_Plan174068328467c0b8149f1e0.pdf",
+    "file_type": "PDF Document",
+    "pages": 38,
+    "chunks": 43,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:50:23.132432",
+    "file_size": "N/A"
+  },
+  "mediclaim": {
+    "original_name": "mediclaim.pdf",
+    "file_type": "PDF Document",
+    "pages": 1,
+    "chunks": 1,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:52:35.378007",
+    "file_size": "N/A"
+  },
+  "general_finance_norms174067985467c0aaae3ecfb": {
+    "original_name": "General Finance Norms174067985467c0aaae3ecfb.pdf",
+    "file_type": "PDF Document",
+    "pages": 2,
+    "chunks": 5,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-05-29 09:53:06.984051",
+    "file_size": "N/A"
+  },
+  "employees_benefits_plan174068328467c0b8149f1e0_1": {
+    "original_name": "Employees_Benefits_Plan174068328467c0b8149f1e0.pdf",
+    "file_type": "PDF Document",
+    "pages": 38,
+    "chunks": 43,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-07-30 16:18:00.000435",
+    "file_size": "N/A"
+  },
+  "leave_policy_2025_2": {
+    "original_name": "Leave Policy 2025.pdf",
+    "file_type": "PDF Document",
+    "pages": 6,
+    "chunks": 23,
+    "source_type": "upload",
+    "source_url": "",
+    "created_at": "2025-09-17 09:15:02.870912",
+    "file_size": "N/A"
+  }
+}
